@@ -35,7 +35,7 @@ The model is trained on the training set using the Adam optimizer and categorica
 Results:-
 
 
-The model achieves an accuracy of [insert accuracy percentage]% on the test set.
+The model achieves an accuracy of 79-80% on the test set.
 
 
 Code:-
